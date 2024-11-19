@@ -2,4 +2,5 @@ body {
     background-color: #00F; /*azul*/
     font-style: italic ; /* negrita */
     color:#0F0; /*rojo*/
+    font-size:20px;  /*tamaño letra*/
 }
